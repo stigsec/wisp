@@ -33,7 +33,7 @@
 
 ## Usage
 
-Start serving files from the current direcotry on default port 8000:
+Start serving files from the current directory on default port 8000:
 ```bash
 wisp
 ```
